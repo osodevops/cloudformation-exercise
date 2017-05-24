@@ -20,6 +20,7 @@ This is a 1 hour practical exercise to test your AWS knowledge. You may use the 
 
 4. The instance public IP should be output after the template is sucessfully complete. <b> (2 points) </b>
 
+#### SUBMIT YOUR TEMPLATE VIA EMAIL: SION@OSODEVOPS.IO
 #### Hints & Tips:
 - You can quickly validate your template using this command:<br>
 `aws cloudformation validate-template --template-body file://sampletemplate.json`
